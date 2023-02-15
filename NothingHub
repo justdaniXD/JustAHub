@@ -209,7 +209,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/iB6yWX1p"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Bubble%20Gum%20Clicker"))()
 
 	elseif game.PlaceId == 2248408710 then
 		OrionLib:MakeNotification({
@@ -290,7 +290,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Strong%20Blade%20Simulator"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Strong%20Blade%20Simulator"))()
 	
 	else 
 	game.Players.LocalPlayer:Kick("we do not support this game Lmao") 
