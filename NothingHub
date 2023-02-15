@@ -292,6 +292,15 @@ function MakeScriptHub()
 		})
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Strong%20Blade%20Simulator"))()
 	
+	elseif game.PlaceId == 11939099110 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "Ski Race Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Ski%20Race"))()
+	
 	else 
 	game.Players.LocalPlayer:Kick("we do not support this game Lmao") 
 	end
