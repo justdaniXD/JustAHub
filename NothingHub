@@ -1,0 +1,422 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Player = game.Players.LocalPlayer
+local Window = OrionLib:MakeWindow({Name = "Key System", HidePremium = false, SaveConfig = true, ConfigFolder = "NoobHub", IntroEnable = false})
+
+OrionLib:MakeNotification({
+	Name = "Logged in!",
+	Content = "You are logged in as "..Player.Name..".",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+})
+
+_G.Kontol = "NotHub"
+_G.KeyInput = "string"
+
+function MakeScriptHub()
+	if game.PlaceId == 11374030763 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "Strongest Tapper Simulator [NEW!] Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/erwN2PMf"))()
+
+	elseif game.PlaceId == 11197013890 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[NEW] Merge Slash Tycoon Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/LkTfV0hG"))()
+
+	elseif game.PlaceId == 11547613362 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[🤖CYBORG] ⛩️ Anime Fly Race Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/7vFGUVQR"))()
+	
+	elseif game.PlaceId == 11196588443 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[🎁X2 EVENT] Zombie Merge Tycoon Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/wP1TqL1n"))()
+	
+	elseif game.PlaceId == 11200197064 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "💸👆 Rich Clicker Simulator! Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/9raZVFmD"))()
+	
+	elseif game.PlaceId == 10977918334 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[NEW] Merge Droppers! Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/SYFqbZTZ"))()
+
+	elseif game.PlaceId == 662417684 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "🎅 XMAS ❓ LUCKY BLOCKS Battlegrounds Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/j2dK5y0C"))()
+
+	elseif game.PlaceId == 11800876530 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[🥚NEW] +1 Blocks Every Second Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/sZfEAbPr"))()
+
+	elseif game.PlaceId == 8507479511 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[🎄CHRISTMAS] 🚀 Higher Jump Every Second Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/7MLhbtau"))()
+
+	elseif game.PlaceId == 11345542927 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[🎄CHRISTMAS] ⚡ Higher Speed Every Second Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/hP4iLcUH"))()
+
+	elseif game.PlaceId == 11807355973 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "+1 Health Every Second ❤️ Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/5yPiDvg5"))()
+
+	elseif game.PlaceId == 11223940989 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "🎄 Power Lifting Champions [EVENT] Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/GeLSWtH9"))()
+
+	elseif game.PlaceId == 11561748530 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "🪂Glide Race Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/rexJ4siE"))()
+
+	elseif game.PlaceId == 11497582055 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "Alphabet Lore Race Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/WfbggQnD"))()
+
+	elseif game.PlaceId == 9796685905 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[🌌UPD!] 💥 Super Hero Race Clicker Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/Dpc3hJLs"))()
+
+	elseif game.PlaceId == 6281183 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "The Longest Hole In Roblox Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/6frHVXQm"))()
+
+	elseif game.PlaceId == 11515876487 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "Scale Man Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/yDGdT1LP"))()
+
+	elseif game.PlaceId == 9492364312 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "+1 Jump Race Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/uQuDg8GG"))()
+
+	elseif game.PlaceId == 11656842204 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "Rainbow Friends Race Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/gRjq7d2y"))()
+
+	elseif game.PlaceId == 11781005288 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "🚀 Jetpack Fuel Per Second Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/VUX55xCa"))()
+
+	elseif game.PlaceId == 11313645140 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "🎉 How Far Can You Launch? Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/jkvj1bsf"))()
+
+	elseif game.PlaceId == 11746859781 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[🚨 UPDATE] Bubble Gum Clicker! Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/iB6yWX1p"))()
+
+	elseif game.PlaceId == 2248408710 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "💥 Destruction Simulator Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/sRZHu6Kp"))()
+
+	elseif game.PlaceId == 11481101550 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[⭐NEW⭐] Magic Tappers Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/jmcTkxrq"))()
+
+	elseif game.PlaceId == 11063612131 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "Every Second You Get +1 Jump Power Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/2zD8RSk2"))()
+
+	elseif game.PlaceId == 11760692772 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[UPDATE] 🪐Sling Race Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/HcXbgtEn"))()
+
+	elseif game.PlaceId == 11620947043 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[☢️UPD❗] 🏆 Flappy Clicker Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/7jBWTTBe"))()
+
+	elseif game.PlaceId == 11818704485 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "+1 Damage Every Second Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/aLsenvTh"))()
+
+	elseif game.PlaceId == 10463605438 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "[NEW!] Titan Tycoon Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/UQx2mjgy"))()
+
+	elseif game.PlaceId == 11940636110 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "Mining Factory Tycoon Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/xrXNMSWd"))()
+
+	elseif game.PlaceId == 11760186967 then
+		OrionLib:MakeNotification({
+			Name = "Supported Games!",
+			Content = "Strong Blade Simulator Script",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Strong%20Blade%20Simulator"))()
+	
+	else 
+	game.Players.LocalPlayer:Kick("we do not support this game Lmao") 
+	end
+end
+
+function CorrectKeyNotification( ... )
+	OrionLib:MakeNotification({
+		Name = "Correct Key!",
+		Content = "You Have Entered The Correct Key!",
+		Image = "rbxassetid://4483345998",
+		Time = 5
+	})
+end
+
+function IncorrectKeyNotification( ... )
+	OrionLib:MakeNotification({
+		Name = "Incorrect Key!",
+		Content = "You Have Entered The Incorrect Key!",
+		Image = "rbxassetid://4483345998",
+		Time = 5
+	})
+end
+
+local Tab = Window:MakeTab({
+	Name = "Key",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddTextbox({
+	Name = "Enter Key!",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		_G.KeyInput = Value
+	end	  
+})
+
+Tab:AddButton({
+	Name = "Check Key",
+	Callback = function()
+      	if _G.KeyInput == _G.Kontol then
+		MakeScriptHub()
+		CorrectKeyNotification()
+		OrionLib:Destroy()
+		else
+			IncorrectKeyNotification()
+		end
+  	end    
+})
+
+Tab:AddButton({
+	Name = "✨Discord Server✨",
+	Callback = function()
+			OrionLib:MakeNotification({
+			Name = "Link Discord Server",
+			Content = "Discord Server Link Has Been Copied To Clipboard!",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+    setclipboard("https://discord.gg/XBFwtTbP3A")
+  	end 
+})
+
+Tab:AddButton({
+	Name = "Get Free Key!",
+	Callback = function()
+			OrionLib:MakeNotification({
+			Name = "Link Key!",
+			Content = "Key Has Been Copied To Clipboard!",
+			Image = "rbxassetid://4483345998",
+			Time = 20
+		})
+    setclipboard("https://discord.gg/XBFwtTbP3A")
+  	end    
+})
+
+local bruh = Window:MakeTab({
+	Name = "Support Games!",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+bruh:AddLabel("                              👇Supported Games!👇                       ")
+
+local Section = bruh:AddSection({
+	Name = "List Games!"
+})
+bruh:AddLabel("[NEW] Merge Slash Tycoon | 12/26/2022")
+bruh:AddLabel("[🤖CYBORG] ⛩️ Anime Fly Race | 1/23/2023")
+bruh:AddLabel("[🎁X2 EVENT] Zombie Merge Tycoon | 12/26/2022")
+bruh:AddLabel("💸👆 Rich Clicker Simulator! | 12/26/2022")
+bruh:AddLabel("[NEW] Merge Droppers! | 12/26/2022")
+bruh:AddLabel("Strongest Tapper Simulator [NEW!] | 12/26/2022")
+bruh:AddLabel("🎅 XMAS ❓ LUCKY BLOCKS Battlegrounds | 12/26/2022")
+bruh:AddLabel("🎄 Power Lifting Champions | 12/30/2022")
+bruh:AddLabel("🚀 Higher Jump Every Second | 12/30/2022")
+bruh:AddLabel("Higher Speed Every Second | 12/30/2022")
+bruh:AddLabel("+1 Health Every Second ❤️ | 12/30/2022")
+bruh:AddLabel("[🥚NEW] +1 Blocks Every Second | 12/30/2022")
+bruh:AddLabel("🪂Glide Race | 1/2/2023")
+bruh:AddLabel("Alphabet Lore Race | 1/3/2023")
+bruh:AddLabel("[🌌UPD!] 💥 Super Hero Race Clicker | 1/4/2023")
+bruh:AddLabel("The Longest Hole In Roblox | 1/5/2023")
+bruh:AddLabel("Scale Man | 1/5/2023")
+bruh:AddLabel("+1 Jump Race | 1/7/2023")
+bruh:AddLabel("Rainbow Friends Race | 1/8/2023")
+bruh:AddLabel("🚀 Jetpack Fuel Per Second | 1/9/2023")
+bruh:AddLabel("🎉 How Far Can You Launch? | 1/10/2023")
+bruh:AddLabel("[🚨 UPDATE] Bubble Gum Clicker! | 1/22/2023")
+bruh:AddLabel("💥 Destruction Simulator | 1/12/2023")
+bruh:AddLabel("[⭐NEW⭐] Magic Tappers | 1/12/2023")
+bruh:AddLabel("Every Second You Get +1 Jump Power | 1/16/2023")
+bruh:AddLabel("[UPDATE] 🪐Sling Race | 1/18/2023")
+bruh:AddLabel("[☢️UPD❗] 🏆 Flappy Clicker | 1/18/2023")
+bruh:AddLabel("+1 Damage Every Second | 1/25/2023")
+bruh:AddLabel("[NEW!] Titan Tycoon | 2/1/2023")
+bruh:AddLabel("Mining Factory Tycoon | 2/9/2023")
+bruh:AddLabel("Strong Blade Simulator | 2/10/2023")
+
+local Section = bruh:AddSection({
+	Name = "Coming Soon Script!"
+})
+bruh:AddLabel("                            👇Coming Soon Script!👇                       ")
+
+bruh:AddLabel("None")
+
+OrionLib:Init()
