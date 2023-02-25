@@ -20,7 +20,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/erwN2PMf"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/erwN2PMf"))()
 
 	elseif game.PlaceId == 11197013890 then
 		OrionLib:MakeNotification({
@@ -29,7 +29,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/LkTfV0hG"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/LkTfV0hG"))()
 
 	elseif game.PlaceId == 11547613362 then
 		OrionLib:MakeNotification({
@@ -38,7 +38,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/7vFGUVQR"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/7vFGUVQR"))()
 	
 	elseif game.PlaceId == 11196588443 then
 		OrionLib:MakeNotification({
@@ -47,7 +47,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/wP1TqL1n"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/wP1TqL1n"))()
 	
 	elseif game.PlaceId == 11200197064 then
 		OrionLib:MakeNotification({
@@ -56,7 +56,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/9raZVFmD"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/9raZVFmD"))()
 	
 	elseif game.PlaceId == 10977918334 then
 		OrionLib:MakeNotification({
@@ -65,7 +65,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/SYFqbZTZ"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/SYFqbZTZ"))()
 
 	elseif game.PlaceId == 662417684 then
 		OrionLib:MakeNotification({
@@ -74,7 +74,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/j2dK5y0C"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/j2dK5y0C"))()
 
 	elseif game.PlaceId == 11800876530 then
 		OrionLib:MakeNotification({
@@ -83,7 +83,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/sZfEAbPr"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/sZfEAbPr"))()
 
 	elseif game.PlaceId == 8507479511 then
 		OrionLib:MakeNotification({
@@ -92,7 +92,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/7MLhbtau"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/7MLhbtau"))()
 
 	elseif game.PlaceId == 11345542927 then
 		OrionLib:MakeNotification({
@@ -101,7 +101,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/hP4iLcUH"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/hP4iLcUH"))()
 
 	elseif game.PlaceId == 11807355973 then
 		OrionLib:MakeNotification({
@@ -110,7 +110,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/5yPiDvg5"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/5yPiDvg5"))()
 
 	elseif game.PlaceId == 11223940989 then
 		OrionLib:MakeNotification({
@@ -119,7 +119,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/GeLSWtH9"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/GeLSWtH9"))()
 
 	elseif game.PlaceId == 11561748530 then
 		OrionLib:MakeNotification({
@@ -128,7 +128,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/rexJ4siE"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/rexJ4siE"))()
 
 	elseif game.PlaceId == 11497582055 then
 		OrionLib:MakeNotification({
@@ -137,7 +137,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/WfbggQnD"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/WfbggQnD"))()
 
 	elseif game.PlaceId == 9796685905 then
 		OrionLib:MakeNotification({
@@ -146,7 +146,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/Dpc3hJLs"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/Dpc3hJLs"))()
 
 	elseif game.PlaceId == 6281183 then
 		OrionLib:MakeNotification({
@@ -155,7 +155,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/6frHVXQm"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/6frHVXQm"))()
 
 	elseif game.PlaceId == 11515876487 then
 		OrionLib:MakeNotification({
@@ -164,7 +164,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/yDGdT1LP"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/yDGdT1LP"))()
 
 	elseif game.PlaceId == 9492364312 then
 		OrionLib:MakeNotification({
@@ -173,7 +173,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/uQuDg8GG"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/%2B1%20Jump%20Race"))()
 
 	elseif game.PlaceId == 11656842204 then
 		OrionLib:MakeNotification({
@@ -182,7 +182,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/gRjq7d2y"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Rainbow%20Friends%20Race"))()
 
 	elseif game.PlaceId == 11781005288 then
 		OrionLib:MakeNotification({
@@ -191,7 +191,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/VUX55xCa"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Jetpack%20Fuel%20Per%20Second"))()
 
 	elseif game.PlaceId == 11313645140 then
 		OrionLib:MakeNotification({
@@ -200,7 +200,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/jkvj1bsf"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/How%20Far%20Can%20You%20Launch"))()
 
 	elseif game.PlaceId == 11746859781 then
 		OrionLib:MakeNotification({
@@ -218,7 +218,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/sRZHu6Kp"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Destruction%20Simulator"))()
 
 	elseif game.PlaceId == 11481101550 then
 		OrionLib:MakeNotification({
@@ -227,7 +227,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/jmcTkxrq"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Magic%20Tappers"))()
 
 	elseif game.PlaceId == 11063612131 then
 		OrionLib:MakeNotification({
@@ -236,7 +236,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/2zD8RSk2"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Every%20Second%20You%20Get%20%2B1%20Jump%20Power"))()
 
 	elseif game.PlaceId == 11760692772 then
 		OrionLib:MakeNotification({
@@ -245,7 +245,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/HcXbgtEn"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Sling%20Race"))()
 
 	elseif game.PlaceId == 11620947043 then
 		OrionLib:MakeNotification({
@@ -254,7 +254,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/7jBWTTBe"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/7jBWTTBe"))()
 
 	elseif game.PlaceId == 11818704485 then
 		OrionLib:MakeNotification({
@@ -263,7 +263,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/aLsenvTh"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/%2B1%20Damage%20Every%20Second%20By%20xFrozen%20Studios"))()
 
 	elseif game.PlaceId == 10463605438 then
 		OrionLib:MakeNotification({
@@ -272,7 +272,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/UQx2mjgy"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/justdaniXD/JustAHub/main/Titan%20Tycoon"))()
 
 	elseif game.PlaceId == 11940636110 then
 		OrionLib:MakeNotification({
@@ -281,7 +281,7 @@ function MakeScriptHub()
 			Image = "rbxassetid://4483345998",
 			Time = 20
 		})
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/xrXNMSWd"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/xrXNMSWd"))()
 
 	elseif game.PlaceId == 11760186967 then
 		OrionLib:MakeNotification({
